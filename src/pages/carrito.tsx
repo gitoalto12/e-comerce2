@@ -9,6 +9,12 @@ const Carrito: NextPage = (): JSX.Element => {
                 <title>Carrito</title>
             </Head>
             <Layout>
+                <div className="w-full h-auto  bg-gradient-to-r from-blue-100 via-purple-100 
+                     to-pink-100 p-4 flex items-center justify-center">
+
+
+                </div>
+
             </Layout>
         </div>
     )
